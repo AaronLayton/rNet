@@ -82,7 +82,7 @@ function main() {
                 'https://cdn.rawgit.com/AaronLayton/rNet/master/images/danped.jpg',
                 'https://cdn.rawgit.com/AaronLayton/rNet/master/images/dating.jpg',
                 'https://cdn.rawgit.com/AaronLayton/rNet/master/images/designers-assemble.jpg',
-                'https://cdn.rawgit.com/AaronLayton/rNet/master/images/eventure-independant-traders.jpg',
+                'https://cdn.rawgit.com/AaronLayton/rNet/master/images/eventure-independent-traders.jpg',
                 'https://cdn.rawgit.com/AaronLayton/rNet/master/images/eventure-matt-404.jpg',
                 'https://cdn.rawgit.com/AaronLayton/rNet/master/images/EventureMatt.png',
                 'https://cdn.rawgit.com/AaronLayton/rNet/master/images/fkjekjfe.jpg',
